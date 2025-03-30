@@ -16,6 +16,7 @@ This project implements a robust and scalable ETL pipeline that extracts real-ti
 - [License](#license)
 
 ---
+![financial_data_pipeline_img](https://github.com/user-attachments/assets/05b284cc-9015-48de-8941-d8cd1c49d667)
 
 ## 🧠 Overview
 
